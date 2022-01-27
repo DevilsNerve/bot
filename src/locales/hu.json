@@ -5,7 +5,7 @@
 												"description": "Discord Ticketek az alábbi engedélyeket igényli:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Ticketek](%s) v%s által [eartharoid](%s)"
+								"version": "[Discord Ticketek](%s) v%s által [devilsnerve](%s)"
 				},
 				"collector_expires_in": "%d másodperc múlva lejár",
 				"command_execution_error": {

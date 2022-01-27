@@ -4,7 +4,7 @@
 												"description": "Discord Tickets требует следующих разрешений:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s от [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s от [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Истекает через %d секунд",
 				"command_execution_error": {

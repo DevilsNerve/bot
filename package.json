@@ -1,5 +1,5 @@
 {
-	"name": "@eartharoid/discord-tickets",
+	"name": "@devilsnerve/discord-tickets",
 	"version": "3.1.3",
 	"private": true,
 	"description": "An open-source Discord bot for ticket management",
@@ -23,7 +23,7 @@
 		"tickets",
 		"bot"
 	],
-	"author": "eartharoid",
+	"author": "devilsnerve",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/discord-tickets/bot/issues"
@@ -31,7 +31,7 @@
 	"homepage": "https://discordtickets.app",
 	"funding": "https://github.com/discord-tickets/bot/?sponsor=1",
 	"dependencies": {
-		"@eartharoid/i18n": "^1.0.1",
+		"@devilsnerve/i18n": "^1.0.1",
 		"boxen": "^5.1.2",
 		"cryptr": "^6.0.2",
 		"discord.js": "^13.2.0",

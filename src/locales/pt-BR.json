@@ -4,7 +4,7 @@
 												"description": "O Bot necessita das seguintes permissões:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s feito por [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s feito por [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Expira em %d segundos",
 				"command_execution_error": {

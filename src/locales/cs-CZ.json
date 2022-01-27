@@ -5,7 +5,7 @@
 			"description": "Discord Tickets potřebuje následující oprávnění\n%s",
 			"title": "⚠️"
 		},
-		"version": "[Discord Tickets](%s) v%s od [eartharoid](%s)"
+		"version": "[Discord Tickets](%s) v%s od [devilsnerve](%s)"
 	},
 	"collector_expires_in": "Vyprší za %d sekund",
 	"command_execution_error": {

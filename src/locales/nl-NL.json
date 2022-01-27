@@ -4,7 +4,7 @@
 												"description": "Discord Tickets vereist de volgende machtigingen:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets] (%s) v%s door [eartharoid](%s)"
+								"version": "[Discord Tickets] (%s) v%s door [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Verloopt over %d seconden",
 				"command_execution_error": {

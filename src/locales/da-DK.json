@@ -5,7 +5,7 @@
 												"description": "Discord Tickets kræver følgende tilladelser:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s af [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s af [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Udløber om %d sekunder",
 				"command_execution_error": {

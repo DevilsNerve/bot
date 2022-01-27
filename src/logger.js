@@ -33,7 +33,7 @@ module.exports = new Logger({
 		}
 	},
 	logToFile: config.logs.enabled,
-	name: 'Discord Tickets by eartharoid',
+	name: 'Discord Tickets by DevilsNerve',
 	splitFile: config.logs.split,
 	timestamp: 'YYYY-MM-DD HH:mm:ss'
 });

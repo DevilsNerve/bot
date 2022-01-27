@@ -4,7 +4,7 @@
 												"description": "Discord Tickets necessita i seguenti permessi.\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s di [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s di [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Scade tra %d secondi",
 				"command_execution_error": {

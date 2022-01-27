@@ -5,7 +5,7 @@
 												"description": "Discord Tickets yêu cầu các quyền sau:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s bởi [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s bởi [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Hết hạn trong %d giây",
 				"command_execution_error": {

@@ -4,7 +4,7 @@
 												"description": "Discord Tickets ต้องการการสิทธิ์อนุญาตดังต่อไปนี้: %s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s สร้างโดย [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s สร้างโดย [devilsnerve](%s)"
 				},
 				"collector_expires_in": "หมดอายุในอีก %d วินาที",
 				"command_execution_error": {

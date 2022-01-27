@@ -11,7 +11,7 @@
  * ---------------------
  *
  * 	> Documentation: https://discordtickets.app
- * 	> Discord support server: https://go.eartharoid.me/discord
+ * 	> Discord support server: https://go.devilsnerve.me/discord
  *
  * ###############################################################################################
  */
@@ -21,7 +21,7 @@ module.exports = {
 	defaults: {
 		colour: '#009999',
 		log_messages: true,
-		name_format: 'ticket-{number}',
+		name_format: 'ticket-{name}-{number}',
 		opening_message: 'Hello {name}, thank you for creating a ticket. A member of staff will soon be available to assist you.\n\n__All messages in this channel are stored for future reference.__'
 	},
 	developer: { debug: false },

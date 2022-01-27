@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@eartharoid/i18n': ^1.0.1
+  '@devilsnerve/i18n': ^1.0.1
   all-contributors-cli: ^6.20.0
   boxen: ^5.1.2
   cryptr: ^6.0.2
@@ -26,7 +26,7 @@ specifiers:
   terminal-link: ^2.1.1
 
 dependencies:
-  '@eartharoid/i18n': 1.0.1
+  '@devilsnerve/i18n': 1.0.1
   boxen: 5.1.2
   cryptr: 6.0.2
   discord.js: 13.2.0
@@ -309,15 +309,15 @@ packages:
       mime-types: 2.1.33
     dev: false
 
-  /@eartharoid/deep-merge/0.0.1:
+  /@devilsnerve/deep-merge/0.0.1:
     resolution: {integrity: sha512-nxv2DRXgyqjNcbgDMOB2SoGlzPvge+yjZEI6+Ez+Ei5j00kAT4tzMG/mxseFhTRgZIlPgcaJ03THInVQnNmwqA==}
     dev: false
 
-  /@eartharoid/dtf/1.0.8:
+  /@devilsnerve/dtf/1.0.8:
     resolution: {integrity: sha512-e3mR8JY6Uuy1Zj89iYEZfvK6s81GlWEPP4gO8NzfItzF4xFGFTVTwRjZ6sCVBmbhj3ouX2pyvx8O9snx4r5Xrg==}
     dev: false
 
-  /@eartharoid/i18n/1.0.1:
+  /@devilsnerve/i18n/1.0.1:
     resolution: {integrity: sha512-5Vl7RrRpSXEmza8bO2+4l4f5jwxfkUoiCzc7TEXyIPaG0lrjLLHwZE1aGuOpV67/HvsvAA2LQSKZcbt9I4LszA==}
     dev: false
 
@@ -1947,8 +1947,8 @@ packages:
   /leekslazylogger/3.0.2:
     resolution: {integrity: sha512-eXgQuEgoSIbtwJRQXy/DHFp1255C4br+x6CtOnrBb5j3GwmeARPMutPur1cMB5YonKBZxFXnvZLqQhr69qKg5A==}
     dependencies:
-      '@eartharoid/deep-merge': 0.0.1
-      '@eartharoid/dtf': 1.0.8
+      '@devilsnerve/deep-merge': 0.0.1
+      '@devilsnerve/dtf': 1.0.8
       leeks.js: 0.2.4
     dev: false
 

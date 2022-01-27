@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=5865F2&label=bots&query=clients&url=https%3A%2F%2Fstats.discordtickets.app&logo=discord&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/dynamic/json?color=5865F2&label=tickets&query=tickets&url=https%3A%2F%2Fstats.discordtickets.app&logo=discord&logoColor=white&style=flat-square)
 [![Codacy](https://img.shields.io/codacy/grade/b974eb5f984c40868e07d82c968bd02d?logo=codacy&style=flat-square)](https://www.codacy.com/gh/discord-tickets/bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=discord-tickets/bot&amp;utm_campaign=Badge_Grade)
-[![Discord](https://img.shields.io/discord/451745464480432129?label=discord&color=7289DA&style=flat-square)](https://go.eartharoid.me/discord)
+[![Discord](https://img.shields.io/discord/451745464480432129?label=discord&color=7289DA&style=flat-square)](https://go.devilsnerve.me/discord)
 [![Weblate](http://i18n.capestar.net/widgets/discord-tickets/-/bot/svg-badge.svg)](https://i18n.capestar.net/engage/discord-tickets/)
 
 <br>
@@ -13,7 +13,7 @@
 
 <div align="center">
 	<a href="https://discordtickets.app/getting-started#pebblehost">
-		<img src="https://img.eartharoid.me/insecure/rs:auto:180/plain/s3://eartharoid/sharex/21/10/pebblehost.webp"/>
+		<img src="https://img.devilsnerve.me/insecure/rs:auto:180/plain/s3://devilsnerve/sharex/21/10/pebblehost.webp"/>
 	</a>
 	<br />
 	<br />
@@ -28,7 +28,7 @@
 
 <br>
 
-![Discord Tickets](https://img.eartharoid.me/insecure/plain/https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient.png@png)
+![Discord Tickets](https://img.devilsnerve.me/insecure/plain/https://static.devilsnerve.me/discord-tickets/logo/wordmark/gradient.png@png)
 
 An open-source ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
 
@@ -89,7 +89,7 @@ It's yours, you have full control.
 
 Discord Tickets is partnered with [PebbleHost](https://discordtickets.app/getting-started#pebblehost). Click on the logo below if you want to self host but you don't have a server. 
 
-[![PebbleHost](https://img.eartharoid.me/insecure/rs:auto:180/plain/s3://eartharoid/sharex/21/10/pebblehost.webp)](https://discordtickets.app/getting-started#pebblehost)
+[![PebbleHost](https://img.devilsnerve.me/insecure/rs:auto:180/plain/s3://devilsnerve/sharex/21/10/pebblehost.webp)](https://discordtickets.app/getting-started#pebblehost)
 
 ## Documentation
 
@@ -99,7 +99,7 @@ You will find most of information you need at [discordtickets.app](https://disco
 
 If the [documentation](https://discordtickets.app) leaves you with questions, you can ask for help in the [discussions](https://github.com/discord-tickets/bot/discussions/categories/support-q-a) or join the support server on Discord.
 
-[![Join the Discord server](https://img.eartharoid.me/insecure/rs:auto:440:200/plain/s3://eartharoid/images/join-discord.png@png)](https://go.eartharoid.me/discord)
+[![Join the Discord server](https://img.devilsnerve.me/insecure/rs:auto:440:200/plain/s3://devilsnerve/images/join-discord.png@png)](https://go.devilsnerve.me/discord)
 
 ## Contributing
 
@@ -132,7 +132,7 @@ Thank you to everyone to has contributed to Discord Tickets, including everyone 
 
 ### Donate
 
-[![Donate at ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/eartharoid)
+[![Donate at ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devilsnerve)
 
 ## License
 

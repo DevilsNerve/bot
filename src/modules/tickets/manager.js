@@ -30,7 +30,11 @@ module.exports = class TicketManager extends EventEmitter {
 	 * @param {string} creator_id - ID of the ticket creator (user)
 	 * @param {string} category_id - ID of the ticket category
 	 * @param {string} [topic] - The ticket topic
-	 */
+	 * 
+	 * @param {string} [discordid] - User discord ID
+	 * @param {string} [hardwareid] - User hardware ID
+	 * @param {string} [uemail] - User email
+	*/
 	async create(guild_id, creator_id, category_id, topic) {
 		if (!topic) topic = '';
 

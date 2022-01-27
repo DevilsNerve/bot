@@ -4,7 +4,7 @@
 												"description": "Discord-billetter krever følgende tilganger:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord Tickets](%s) v%s av [eartharoid](%s)"
+								"version": "[Discord Tickets](%s) v%s av [devilsnerve](%s)"
 				},
 				"collector_expires_in": "Utløper om %d sekunder",
 				"command_execution_error": {

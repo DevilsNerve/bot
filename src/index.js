@@ -86,7 +86,7 @@ process.on('unhandledRejection', error => {
 
 const DiscordUtils = require('./utils/discord');
 const Cryptr = require('cryptr');
-const I18n = require('@eartharoid/i18n');
+const I18n = require('@devilsnerve/i18n');
 const ListenerLoader = require('./modules/listeners/loader');
 const CommandManager = require('./modules/commands/manager');
 const PluginManager = require('./modules/plugins/manager');
@@ -130,7 +130,7 @@ class Bot extends Client {
 			this.config = require('../user/config');
 
 			/**
-			 * A [leekslazylogger](https://logger.eartharoid.me) instance
+			 * A [leekslazylogger](https://logger.devilsnerve.me) instance
 			 * @type {Logger}
 			 */
 			this.log = log;
@@ -151,7 +151,7 @@ class Bot extends Client {
 				});
 
 			/**
-			 * An [@eartharoid/i18n](https://github.com/eartharoid/i18n) instance
+			 * An [@devilsnerve/i18n](https://github.com/devilsnerve/i18n) instance
 			 * @type {I18n}
 			 */
 			this.i18n = new I18n('en-GB', locales);

@@ -4,7 +4,7 @@
 												"description": "कलह टिकट निम्नलिखित अनुमतियों की आवश्यकता है:\n%s",
 												"title": "⚠️"
 								},
-								"version": "[Discord टिकट] (%s) v%s [eartharoid](%s) द्वारा"
+								"version": "[Discord टिकट] (%s) v%s [devilsnerve](%s) द्वारा"
 				},
 				"collector_expires_in": "%d सेकंड में समाप्त हो रहा है",
 				"command_execution_error": {
